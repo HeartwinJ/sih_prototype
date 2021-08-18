@@ -54,7 +54,7 @@ class _MyProfilePageState extends State<MyProfilePage>{
               Padding(
                 padding: const EdgeInsets.all(16.0),
                 child: Text(
-                  'SheWhoMustNotBeNamed',
+                  'Thansi N',
                   style: TextStyle(
                     fontSize: 28.0,
                     fontWeight: FontWeight.bold,
